@@ -1,4 +1,4 @@
-# 🎮 Hi, I'm abcde12123
+# Hi, I'm abcde12123
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=42A5F5&width=500&lines=Game+Development+Student;UE5+%2B+C%2B%2B+Combat+System;Unity+%2B+C%23+Interaction+Toolkit;Tech+Internship+Candidate" alt="Typing SVG" />
