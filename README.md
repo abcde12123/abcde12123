@@ -9,7 +9,7 @@
 </p>
 
 ---
-### 🔍 寻找实习中 / Seeking Internship
+### 🔍 学习特效中 / Studing FX
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="30" height="30" />
