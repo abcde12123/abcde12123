@@ -1,7 +1,7 @@
 # Hi, I'm abcde12123（夏夜）
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=42A5F5&width=500&lines=Game+Development+Student;UE5+%2B+C%2B%2B+Combat+System;Unity+%2B+C%23+Interaction+Toolkit;Tech+Internship+Candidate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&width=500&lines=Game+VFX+Artist;UE5+Niagara+Effects;UE5+PBR" alt="Typing SVG" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Birthday-2005.01.21-FF69B4?style=flat-square&logo=cakephp&logoColor=white" alt="Birthday" />
@@ -9,12 +9,12 @@
 </p>
 
 ---
-### 🔍 学习特效中 / Studing FX
+### 🔍 学习特效中 / Studying VFX
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="30" height="30" />
   &nbsp;
-  <strong>Currently seeking Game Development Internship (Unity/UE5)</strong>. Open to opportunities!
+  <strong>Currently seeking Game VFX (UE5/Unity)</strong>. Open to opportunities!
 </p>
 
 ---
